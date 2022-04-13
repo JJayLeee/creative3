@@ -22,7 +22,7 @@
         </div>
       </div>
       <div v-else>
-        <h1>Shopping Cart is Empty</h1>
+        <h1>Deck is Empty</h1>
       </div>
     </div>
   </div>
